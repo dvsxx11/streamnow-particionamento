@@ -1,0 +1,15 @@
+-- create table usuarios(
+-- id_usuario serial,
+-- nome varchar(100),
+-- pais varchar(50),
+-- data_cadastro DATE NOT NULL,
+-- plano varchar(20)
+-- )partition by range(data_cadastro);
+
+-- CREATE TABLE reproducoes (
+--     id_reproducao SERIAL,
+--     id_usuario INT NOT NULL,
+--     data_reproducao DATE NOT NULL,
+--     duracao_segundos INT,
+--     categoria VARCHAR(50)
+-- )partition by range (data_reproducao);
