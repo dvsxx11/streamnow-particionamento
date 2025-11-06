@@ -93,6 +93,8 @@ from reproducoes;
 
 ---
 
+## 💻 DEV
+
 - **Davi Silva Soares**
 - **Estudante de Engenharia de Software**
 - **Centro Universitário Santo Agostinho**
